@@ -1,0 +1,9 @@
+c:\users\tabish\documents\visual studio 2010\Projects\table program\table program\bin\Debug\table program.exe
+c:\users\tabish\documents\visual studio 2010\Projects\table program\table program\bin\Debug\table program.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\table program\table program\obj\x86\Debug\table program.exe
+c:\users\tabish\documents\visual studio 2010\Projects\table program\table program\obj\x86\Debug\table program.pdb
+C:\Users\Tabish\Desktop\pf lec\table program\table program\obj\x86\Debug\table program.exe
+C:\Users\Tabish\Desktop\pf lec\table program\table program\obj\x86\Debug\table program.pdb
+C:\Users\Tabish\Desktop\pf lec\table program\table program\obj\x86\Debug\table program.csprojResolveAssemblyReference.cache
+C:\Users\Tabish\Desktop\pf lec\table program\table program\bin\Debug\table program.exe
+C:\Users\Tabish\Desktop\pf lec\table program\table program\bin\Debug\table program.pdb
